@@ -61,22 +61,23 @@ export default hopeTheme({
   locales: {
     "/": {
       // navbar
-      navbar: enNavbar,
+      navbar: zhNavbar,
 
       // sidebar
-      sidebar: enSidebar,
+      sidebar: zhSidebar,
 
-      footer: "Default footer",
+      footer: "默认页脚",
 
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
-        intro: "/intro.html",
+        description: "一个前端开发者",
+        intro: "/zh/intro.html",
       },
 
+      // page meta
       metaLocales: {
-        editLink: "Edit this page on GitHub",
+        editLink: "在 GitHub 上编辑此页",
       },
     },
 

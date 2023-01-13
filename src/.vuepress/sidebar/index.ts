@@ -17,6 +17,12 @@ export const zhSidebar = sidebar({
       link: "demo/",
       children: "structure",
     },
+    {
+      text: "03 kafka",
+      icon: "note",
+      prefix: "kafka/",
+      children: "structure",
+    },
     "intro",
     "slides",
   ],

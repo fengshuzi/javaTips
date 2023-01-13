@@ -6,6 +6,7 @@ export const zhSidebar = sidebar({
     {
       text: "00 并发编程",
       icon: "note",
+      link: "concurrent/"
       prefix: "concurrent/",
       children: "structure",
     },

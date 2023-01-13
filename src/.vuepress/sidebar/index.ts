@@ -20,6 +20,7 @@ export const zhSidebar = sidebar({
     {
       text: "03 kafka",
       icon: "note",
+      collapsible: true,
       prefix: "kafka/",
       children: "structure",
     },

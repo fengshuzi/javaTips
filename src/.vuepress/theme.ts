@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "fengshuzi/javaTips",
 
-  docsDir: "docs",
+  docsDir: "src",
 
   blog: {
     medias: {

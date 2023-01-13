@@ -4,16 +4,16 @@ export const zhSidebar = sidebar({
   "/": [
     "",
     {
-      text: "如何使用",
-      icon: "creative",
-      prefix: "demo/",
-      link: "demo/",
+      text: "00 并发编程",
+      icon: "note",
+      prefix: "concurrent/",
       children: "structure",
     },
     {
-      text: "并发编程",
-      icon: "note",
-      prefix: "concurrent/",
+      text: "01 jvm小手段",
+      icon: "creative",
+      prefix: "demo/",
+      link: "demo/",
       children: "structure",
     },
     "intro",

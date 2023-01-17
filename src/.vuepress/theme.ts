@@ -17,7 +17,13 @@ export default hopeTheme({
   repo: "fengshuzi/javaTips",
 
   docsDir: "src",
+  prev: false,
 
+  next: false,
+  lastUpdated: false,
+  contributors: false,
+
+  editLink: false,
   blog: {
     medias: {
       Baidu: "https://example.com",
@@ -35,13 +41,7 @@ export default hopeTheme({
 
       footer: "漂泊者及其影子",
 
-      prev: false,
 
-      next: false,
-      lastUpdated: false,
-      contributors: false,
-
-      editLink: false,
 
       displayFooter: true,
 

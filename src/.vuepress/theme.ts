@@ -38,12 +38,16 @@ export default hopeTheme({
       prev: false,
 
       next: false,
+      lastUpdated: false,
+      contributors: false,
+
+      editLink: false,
 
       displayFooter: true,
 
       blog: {
         description: "分享java小手段",
-        intro: "intro.html",
+        intro: "about.html",
       },
 
       // page meta

@@ -38,6 +38,6 @@ export const zhSidebar = sidebar({
       prefix: "diary/",
       children: "structure",
     },
-    "aboud"
+    "about"
   ],
 });

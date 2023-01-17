@@ -38,7 +38,6 @@ export const zhSidebar = sidebar({
       prefix: "diary/",
       children: "structure",
     },
-    "intro",
-    "slides",
+    "aboud"
   ],
 });

@@ -38,6 +38,15 @@ export const zhSidebar = sidebar({
       prefix: "diary/",
       children: "structure",
     },
+    {
+      text: "06 编程工具",
+      icon: "note",
+      collapsible: true,
+      prefix: "tools/",
+      children: "structure",
+    }
+
+    ,
     "about"
   ],
 });

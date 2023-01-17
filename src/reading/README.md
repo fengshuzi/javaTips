@@ -1,9 +1,9 @@
 ---
-title: 并发编程
+title: 2023读书计划
 index: false
 icon: discover
 category:
-  - 并发编程
+  - 读书笔记
 ---
 
 ## 目录

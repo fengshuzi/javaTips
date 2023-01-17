@@ -35,6 +35,10 @@ export default hopeTheme({
 
       footer: "默认页脚",
 
+      prev: false,
+
+      next: false,
+
       displayFooter: true,
 
       blog: {

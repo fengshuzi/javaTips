@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: home
+title: 博客
 heroImage: /logo.svg
 heroText: 漂泊者及其影子
 heroFullScreen: true

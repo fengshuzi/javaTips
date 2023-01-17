@@ -31,6 +31,13 @@ export const zhSidebar = sidebar({
       prefix: "reading/",
       children: "structure",
     },
+    {
+      text: "05 随笔杂谈",
+      icon: "note",
+      collapsible: true,
+      prefix: "diary/",
+      children: "structure",
+    },
     "intro",
     "slides",
   ],

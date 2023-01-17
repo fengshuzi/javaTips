@@ -24,6 +24,13 @@ export const zhSidebar = sidebar({
       prefix: "kafka/",
       children: "structure",
     },
+    {
+      text: "04 读书笔记",
+      icon: "note",
+      collapsible: true,
+      prefix: "reading/",
+      children: "structure",
+    },
     "intro",
     "slides",
   ],

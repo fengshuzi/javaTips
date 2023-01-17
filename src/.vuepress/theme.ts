@@ -33,7 +33,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "漂泊者及其影子",
 
       prev: false,
 

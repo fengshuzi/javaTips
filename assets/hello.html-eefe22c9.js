@@ -1,0 +1,1 @@
+import{_ as t,V as s,W as a,X as e,Y as n}from"./framework-9a29aaa0.js";const o={},c=e("h1",{id:"fengshuzi",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#fengshuzi","aria-hidden":"true"},"#"),n(" fengshuzi")],-1),r=[c];function _(h,i){return s(),a("div",null,r)}const d=t(o,[["render",_],["__file","hello.html.vue"]]);export{d as default};

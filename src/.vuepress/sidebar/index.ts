@@ -13,8 +13,8 @@ export const zhSidebar = sidebar({
     {
       text: "01 jvm小手段",
       icon: "creative",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "jvm/",
+      link: "jvm/",
       children: "structure",
     },
     {

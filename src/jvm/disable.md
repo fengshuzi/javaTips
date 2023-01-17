@@ -1,18 +1,11 @@
 ---
-title: 布局与功能禁用
+title: jvm内存区域笔记
 icon: config
 order: 3
 category:
-  - 使用指南
+  - jvm
 tag:
-  - 禁用
-
-navbar: false
-sidebar: false
-
-breadcrumb: false
-pageInfo: false
-contributors: false
+  - jvm
 editLink: false
 lastUpdated: false
 prev: false
@@ -23,7 +16,6 @@ footer: false
 backtotop: false
 ---
 
-你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。
 
 <!-- more -->
 

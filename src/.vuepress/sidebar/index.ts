@@ -6,6 +6,7 @@ export const zhSidebar = sidebar({
     {
       text: "并发编程",
       icon: "note",
+      collapsible: true,
       link: "concurrent/",
       prefix: "concurrent/",
       children: "structure",
@@ -14,12 +15,14 @@ export const zhSidebar = sidebar({
       text: "jvm小手段",
       icon: "creative",
       prefix: "jvm/",
+      collapsible: true,
       link: "jvm/",
       children: "structure",
     },
     {
       text: "java",
       icon: "creative",
+      collapsible: true,
       prefix: "java/",
       link: "java/",
       children: "structure",

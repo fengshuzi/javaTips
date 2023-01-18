@@ -18,6 +18,13 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
+      text: "java",
+      icon: "creative",
+      prefix: "java/",
+      link: "java/",
+      children: "structure",
+    },
+    {
       text: "kafka",
       icon: "note",
       collapsible: true,

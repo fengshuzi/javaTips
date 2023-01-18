@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "java小手段",
+    name: "漂泊者及其影子",
     url: "https://blog.fengshuzi.com",
   },
 

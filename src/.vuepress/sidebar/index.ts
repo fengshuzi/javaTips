@@ -56,7 +56,7 @@ export const zhSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "运动健身减肥日记",
+      text: "运动健身",
       icon: "note",
       collapsible: true,
       prefix: "sport/",

@@ -1,1 +1,0 @@
-import{_,V as t,W as a,X as e,Y as c}from"./framework-9a29aaa0.js";const r={},s=e("h1",{id:"_2023年没有梦想",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_2023年没有梦想","aria-hidden":"true"},"#"),c(" 2023年没有梦想")],-1),o=[s];function n(d,i){return t(),a("div",null,o)}const l=_(r,[["render",n],["__file","2023年没有梦想.html.vue"]]);export{l as default};

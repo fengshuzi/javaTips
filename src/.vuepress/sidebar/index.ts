@@ -68,6 +68,13 @@ export const zhSidebar = sidebar({
       collapsible: true,
       prefix: "movie/",
       children: "structure",
+    },
+    {
+      text: "最佳实践",
+      icon: "note",
+      collapsible: true,
+      prefix: "100/",
+      children: "structure",
     }
 
     ,
